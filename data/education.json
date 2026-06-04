@@ -1,0 +1,37 @@
+[
+  {
+    "degree": "PhD in Biology",
+    "institution": "Kansas State University",
+    "location": "Manhattan, Kansas, USA",
+    "dates": "Jan 2026 – Present",
+    "note": "Eco-hydrology · Watershed modeling · Prairie streams"
+  },
+  {
+    "degree": "Master of Science in Environmental Science",
+    "institution": "Oklahoma State University",
+    "location": "Stillwater, Oklahoma, USA",
+    "dates": "Feb 2024 – Dec 2025",
+    "note": "GPA: 4.0 · Thesis: OK.HAWQS for targeted BMP implementation in the Persimmon Creek Watershed"
+  },
+  {
+    "degree": "Master of Science in Environmental Technology and Engineering",
+    "institution": "Ghent University",
+    "location": "Ghent, Belgium",
+    "dates": "Oct 2015 – Sep 2017",
+    "note": "785/1000 · 4th in cohort · Thesis: Surfactants in remediation technologies"
+  },
+  {
+    "degree": "Master of Science in Environmental System Management",
+    "institution": "Presidency College, University of Calcutta",
+    "location": "Kolkata, India",
+    "dates": "Aug 2008 – May 2010",
+    "note": "780/1000 · First class first in University · Thesis: Litter decomposition in Nagarahole"
+  },
+  {
+    "degree": "Bachelor of Science (Honors) in Microbiology",
+    "institution": "Bidhannagar College, University of Calcutta",
+    "location": "Kolkata, India",
+    "dates": "Jul 2005 – May 2008",
+    "note": "495/800 · First division · 2nd in cohort"
+  }
+]

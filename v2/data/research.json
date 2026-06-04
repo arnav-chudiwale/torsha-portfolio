@@ -1,0 +1,143 @@
+[
+  {
+    "group": "Watershed & Prairie Ecology",
+    "projects": [
+      {
+        "title": "Woody Encroachment and the Drying of Prairie Streams",
+        "institution": "Kansas State University",
+        "location": "Manhattan, Kansas",
+        "dates": "Jan 2026 – Present",
+        "summary": "Investigating how vegetation shifts—particularly woody encroachment—alter streamflow dynamics and water availability in Flint Hills grassland ecosystems, linking long-term hydrological patterns to prairie stream drying.",
+        "details": [
+          "Graduate teaching and research at the Konza LTER landscape",
+          "Streamflow decline analysis in relation to woody encroachment",
+          "Watershed modeling with HAWQS/SWAT frameworks"
+        ],
+        "tags": ["Eco-hydrology", "Konza LTER", "Streamflow", "Grasslands"]
+      },
+      {
+        "title": "Persimmon Creek Watershed Modeling",
+        "institution": "Oklahoma State University",
+        "location": "Stillwater, Oklahoma",
+        "dates": "Feb 2024 – Dec 2025",
+        "summary": "Applied OK.HAWQS (SWAT) and ArcGIS Pro to analyze land use and BMP scenarios for sediment, E. coli, and pollutant reduction—culminating in an EPA 9-element watershed-based plan for Oklahoma Conservation Commission.",
+        "details": [
+          "Mapped riparian habitat using aerial imagery and ArcGIS Pro",
+          "Simulated BMP scenarios and conducted cost-benefit analysis",
+          "Submitted EPA 9-element Watershed-based Plan (Persimmon Creek, Woodward County)"
+        ],
+        "tags": ["OK.HAWQS", "ArcGIS Pro", "SWAT", "BMPs", "EPA 9-element"]
+      }
+    ]
+  },
+  {
+    "group": "Environmental Remediation",
+    "projects": [
+      {
+        "title": "Petroleum Hydrocarbon Soil Remediation with Biosurfactants",
+        "institution": "Ghent University · UCT Prague",
+        "location": "Ghent, Belgium · Prague, Czech Republic",
+        "dates": "2015 – 2017",
+        "summary": "Studied sophorolipids from Candida bombicola and synthetic surfactants for remediating aviation kerosene–contaminated soil—bridging laboratory characterization with field-relevant cleanup strategies.",
+        "details": [
+          "Laboratory study on biosurfactant vs. synthetic surfactant removal efficiency",
+          "Presented at Remediation Technologies XXI and Tsinghua Environmental Remediation Forum"
+        ],
+        "tags": ["Biosurfactants", "Soil remediation", "Surfactants"]
+      },
+      {
+        "title": "Compost Biofilter for VOC Removal",
+        "institution": "Collaborative research (Bioresource Technology publication)",
+        "location": "International",
+        "dates": "2017 – 2018",
+        "summary": "Contributed to gas-phase toluene and xylene removal studies in compost biofilters, examining concentration and flow-rate effects on treatment performance.",
+        "details": [],
+        "tags": ["Biofiltration", "Air quality", "Bioresource Technology"]
+      }
+    ]
+  },
+  {
+    "group": "Microbiology & Environmental Engineering",
+    "projects": [
+      {
+        "title": "Acetoclastic Methanogenesis in Anaerobic Sludge",
+        "institution": "Oklahoma State University",
+        "location": "Stillwater, Oklahoma",
+        "dates": "Aug 2022 – Dec 2023",
+        "summary": "Prepared and monitored reactors to study acetoclastic methanogenic activity, including effects of UV-aged PET on methanogenesis—using GC-FID and GC-TCD for methane and nitrogen analysis.",
+        "details": [
+          "Developed protocols for GC run experiments",
+          "Governor's Water Conference lightning talk on PET and methanogenesis"
+        ],
+        "tags": ["GC-FID", "GC-TCD", "Anaerobic sludge", "Microplastics"]
+      },
+      {
+        "title": "Arsenic Tolerance in Rice Cultivars",
+        "institution": "Presidency University · DST-INSPIRE",
+        "location": "Kolkata, India",
+        "dates": "May 2012 – Mar 2013",
+        "summary": "Investigated biochemical and molecular aspects of arsenate-influenced seed germination, protein profiling, and plant stress responses—contributing to a handbook chapter on polyamines in abiotic stress.",
+        "details": [
+          "Bradford assays, electrophoresis, and seedling extract analysis",
+          "Drafted bibliographic work for Handbook of Plant and Crop Physiology"
+        ],
+        "tags": ["Arsenic", "Plant physiology", "DST-INSPIRE"]
+      },
+      {
+        "title": "Ceramic Leaf Design for CO₂-to-Glucose",
+        "institution": "CSIR–Central Glass and Ceramic Research Institute",
+        "location": "Kolkata, India",
+        "dates": "May 2011 – Apr 2012",
+        "summary": "Literature review and conference support on ceramic biosurfaces for glucose preparation from CO₂, within DST-INSPIRE fellowship work on biomaterials.",
+        "details": [
+          "Assisted organization of international conference on Biomaterials and Implants"
+        ],
+        "tags": ["Ceramics", "Biomaterials", "Literature synthesis"]
+      },
+      {
+        "title": "Litter Decomposition in Nagarahole Forest",
+        "institution": "Presidency College, University of Calcutta",
+        "location": "Karnataka, India",
+        "dates": "2008 – 2010",
+        "summary": "MSc thesis on microflora-mediated wood and leaf litter decomposition in Rajiv Gandhi National Park (Nagarahole)—first class first in university for Environmental System Management.",
+        "details": [],
+        "tags": ["Microflora", "Decomposition", "Field ecology"]
+      }
+    ]
+  },
+  {
+    "group": "Environmental Health & Policy",
+    "projects": [
+      {
+        "title": "Antibiotic Stewardship One Health Project",
+        "institution": "WBUAFS · LSHTM/RVC",
+        "location": "Kolkata, India · UK",
+        "dates": "Aug 2021 – Mar 2022",
+        "summary": "WHO-aligned One Health field research with PhotoVoice and stakeholder interviews on antibiotic use in rural systems—synthesizing findings into policy briefs for national stewardship programs.",
+        "details": [
+          "Qualitative interviews with human and veterinary healthcare providers",
+          "Multi-stakeholder engagement and structured consultations"
+        ],
+        "tags": ["One Health", "PhotoVoice", "Policy briefs"]
+      },
+      {
+        "title": "Heavy Metal Contamination in Urban Playgrounds",
+        "institution": "Arnika Environmental NGO",
+        "location": "Prague, Czech Republic",
+        "dates": "Jul – Aug 2016",
+        "summary": "Field and laboratory study of cadmium and toxic metals in Prague children's playgrounds—published via Arnika press release on soil contamination findings.",
+        "details": [],
+        "tags": ["ED-XRF", "Heavy metals", "Public health"]
+      },
+      {
+        "title": "Fly Ash Adsorption for Wastewater Treatment",
+        "institution": "Government College of Engineering and Ceramic Technology",
+        "location": "Kolkata, India",
+        "dates": "Aug 2010 – Jan 2011",
+        "summary": "Collected fly ash from thermal power plants, collated physicochemical data, and compared adsorption potential against prevalent wastewater treatment techniques.",
+        "details": [],
+        "tags": ["Fly ash", "Wastewater", "Adsorption"]
+      }
+    ]
+  }
+]

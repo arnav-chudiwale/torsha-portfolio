@@ -1,0 +1,35 @@
+[
+  {
+    "region": "Watershed Modeling",
+    "skills": ["OK.HAWQS", "SWAT", "ArcGIS Pro", "ArcPy", "Riparian mapping", "BMP scenario analysis"]
+  },
+  {
+    "region": "Lab Instrumentation",
+    "skills": [
+      "GC-FID",
+      "GC-TCD",
+      "ATR-FTIR",
+      "ED-XRF",
+      "Light microscopy",
+      "SDS-PAGE",
+      "DNA isolation",
+      "Soil respiration & dehydrogenase assays",
+      "Surfactant characterization",
+      "Water chemistry"
+    ]
+  },
+  {
+    "region": "Computing",
+    "skills": ["R (basic)", "Python (basic)", "Microsoft Office", "Environmental data analysis"]
+  },
+  {
+    "region": "Communication",
+    "skills": [
+      "Grant writing",
+      "Conference presentations",
+      "Stakeholder engagement",
+      "Curriculum development",
+      "Policy briefs"
+    ]
+  }
+]

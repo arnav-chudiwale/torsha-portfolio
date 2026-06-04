@@ -1,0 +1,123 @@
+{
+  "peerReviewed": [
+    {
+      "authors": "Goswami, T., Tack, F.M.G., Honetschlägerová, L., Šer, M.",
+      "title": "Remediation of aviation kerosene contaminated soil by sophorolipids from Candida bombicola CB 2107",
+      "venue": "Applied Sciences",
+      "detail": "10(6):1981",
+      "year": "2020",
+      "doi": "https://doi.org/10.3390/app10061981",
+      "type": "Research Article"
+    },
+    {
+      "authors": "Rene, E. R., Sergienko, N., Goswami, T., López, M., Kumar, G., Saratale, G. D., … Swaminathan, T.",
+      "title": "Effects of concentration and gas flow rate on the removal of gas-phase toluene and xylene mixture in a compost biofilter",
+      "venue": "Bioresource Technology",
+      "detail": "248:28-35",
+      "year": "2018",
+      "doi": "https://doi.org/10.1016/j.biortech.2017.08.029",
+      "type": "Research Article"
+    },
+    {
+      "authors": "Roy, D.K., Sarkar, T.K., Kamar, S.S.A., Goswami, T., … Mattar, M.A.",
+      "title": "Daily Prediction and Multi-Step Forward Forecasting of Reference Evapotranspiration Using LSTM and Bi LSTM Models",
+      "venue": "Agronomy",
+      "detail": "12:594",
+      "year": "2022",
+      "doi": "https://doi.org/10.3390/agronomy12030594",
+      "type": "Research Article"
+    },
+    {
+      "authors": "Srivastava, R.K., Pothu, R., Sanchez, C.P., Goswami, T., … Nedungadi, S.V.",
+      "title": "Removal and recovery of nutrients and value-added products from wastewater: technological options and practical perspective",
+      "venue": "Systems Microbiology and Biomanufacturing",
+      "detail": "2:67–90",
+      "year": "2022",
+      "doi": "https://doi.org/10.1007/s43393-021-00056-6",
+      "type": "Review"
+    }
+  ],
+  "conferences": [
+    {
+      "title": "Woody encroachment and the Drying of Prairie Streams in the Flint Hills",
+      "authors": "Goswami, T., Dodds, W.K., & Keen, R.",
+      "venue": "Konza LTER Annual Meeting",
+      "location": "Manhattan, Kansas",
+      "year": "2026",
+      "type": "Lightning Talk"
+    },
+    {
+      "title": "Evaluating cost-effective BMPs for E. coli mitigation in the Persimmon Creek Watershed using OK.HAWQS and ArcGIS Pro",
+      "authors": "Goswami, T., Stoodley, S., Dzialowski, A., Rogers, B., & Lambert, L. H.",
+      "venue": "Oklahoma Clean Lakes and Watersheds Association Conference",
+      "location": "Stillwater, Oklahoma",
+      "year": "2025",
+      "type": "Talk"
+    },
+    {
+      "title": "Applying OK.HAWQS to evaluate BMP performance in the Persimmon Creek Watershed",
+      "authors": "Goswami, T., Stoodley, S., Dzialowski, A., Rogers, B., & Lambert, L. H.",
+      "venue": "UCOWR/NIWR Annual Water Resources Conference",
+      "location": "Minneapolis, Minnesota",
+      "year": "2025",
+      "type": "Selected Speaker"
+    },
+    {
+      "title": "Developing an EPA 9-element Watershed-based Plan for the Persimmon Creek Watershed",
+      "authors": "Goswami, T., Stoodley, S., Dzialowski, A., Rogers, B., & Lambert, L. H.",
+      "venue": "UCOWR/AWRA/NIWR Joint Conference",
+      "location": "St. Louis, Missouri",
+      "year": "2024",
+      "type": "Selected Speaker"
+    },
+    {
+      "title": "Developing an EPA 9-element Watershed-based Plan for the Persimmon Creek Watershed",
+      "authors": "Goswami, T., Stoodley, S., Dzialowski, A., Rogers, B., & Lambert, L. H.",
+      "venue": "Oklahoma Clean Lakes and Watersheds Association Conference",
+      "location": "Stillwater, Oklahoma",
+      "year": "2024",
+      "type": "Talk"
+    },
+    {
+      "title": "Studying the Effects of UV-aged PET to Acetoclastic Methanogenesis in Anaerobic Sludge",
+      "authors": "Goswami, T., Wang, X., Gallardo-Owens, D., Jones, J., Estrella, J. G.",
+      "venue": "Governor's Water Conference and Research Symposium",
+      "location": "Edmond, Oklahoma",
+      "year": "2023",
+      "type": "Lightning Talk"
+    },
+    {
+      "title": "Potential of sophorolipids to clean petroleum hydrocarbon contaminated soil",
+      "authors": "Goswami T., Lhotska K., Honetschlägerová, L., Tack F.M.G., Šer M.",
+      "venue": "Tsinghua Forum on Environmental Remediation",
+      "location": "China",
+      "year": "2019",
+      "type": "Talk"
+    },
+    {
+      "title": "Removal of Petroleum Hydrocarbons using Biosurfactants and Synthetic Surfactants",
+      "authors": "Goswami T., Šer M., Tack F.M.G.",
+      "venue": "Remediation Technologies XXI",
+      "location": "Tábor, Czech Republic",
+      "year": "2018",
+      "type": "Poster"
+    }
+  ],
+  "reports": [
+    {
+      "title": "Watershed Based Plan for The Persimmon Creek Watershed",
+      "authors": "Goswami, T., Berube, L., Majumder, S.D, Davis, C., McIntosh, L., & Santos, N.",
+      "year": "2024",
+      "type": "Technical Report"
+    }
+  ],
+  "media": [
+    {
+      "title": "Prague Children Playgrounds Have Problems with Cadmium Contents",
+      "authors": "Vávra, J., Goswami, T., Brabcova, K., Petrlikova, L.",
+      "venue": "Arnika.org press release",
+      "year": "2016",
+      "url": "https://english.arnika.org/press-releases/prague-children-playgrounds-have-problems-with-cadmium-contents-luckily-contents-of-other-toxic-substances-are-within-limits"
+    }
+  ]
+}

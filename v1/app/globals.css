@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --slate-depth: #1b2a3b;
+  --watershed-teal: #2d6a6a;
+  --alluvial-warm: #c4956a;
+  --prairie-gold: #d4a843;
+  --field-paper: #f7f4ee;
+  --limestone: #e8e3d9;
+  --chalk: #d5cfc3;
+  --graphite: #6b6560;
+  --silt: #9b948a;
+  --riparian-green: #4a7c59;
+  --sediment-red: #8b4a3a;
+  --deep-water: #1a4a5c;
+  --surface: #e8e3d9;
+  --text-primary: #1b2a3b;
+  --text-secondary: #6b6560;
+  --border-color: #d5cfc3;
+  --contour-stroke: #2d6a6a;
+  --hero-overlay: rgba(247, 244, 238, 0.72);
+}
+
+.dark {
+  --slate-depth: #e4dfd5;
+  --watershed-teal: #5ba3a3;
+  --alluvial-warm: #c4956a;
+  --prairie-gold: #d4a843;
+  --field-paper: #0f1419;
+  --limestone: #1a2028;
+  --chalk: #2a3540;
+  --graphite: #8a847a;
+  --silt: #6b6560;
+  --riparian-green: #6b9a78;
+  --sediment-red: #a66a5a;
+  --deep-water: #5ba3a3;
+  --surface: #1a2028;
+  --text-primary: #e4dfd5;
+  --text-secondary: #8a847a;
+  --border-color: #2a3540;
+  --contour-stroke: #5ba3a3;
+  --hero-overlay: rgba(15, 20, 25, 0.75);
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 112.5%; /* 18px root — comfortable web reading size */
+  text-size-adjust: 100%;
+}
+
+body {
+  @apply bg-field-paper font-body text-body text-text-primary antialiased;
+  transition: background-color 0.35s ease, color 0.35s ease;
+}
+
+@layer components {
+  .type-eyebrow {
+    @apply font-mono text-meta font-normal uppercase tracking-[0.18em] text-watershed-teal;
+  }
+
+  .type-section-title {
+    @apply font-display text-section-title text-slate-depth;
+  }
+
+  .type-section-lead {
+    @apply max-w-prose text-section-lead text-text-secondary;
+  }
+
+  .type-group-title {
+    @apply font-body text-group-title font-medium text-watershed-teal;
+  }
+
+  .type-card-title {
+    @apply font-display text-card-title text-slate-depth;
+  }
+
+  .type-body {
+    @apply max-w-prose text-body text-text-secondary;
+  }
+
+  .type-body-sm {
+    @apply text-body-sm leading-relaxed text-text-secondary;
+  }
+
+  .type-meta {
+    @apply font-mono text-meta text-silt;
+  }
+
+  .type-meta-accent {
+    @apply font-mono text-meta text-prairie-gold;
+  }
+
+  .type-nav {
+    @apply font-body text-nav font-medium uppercase tracking-[0.08em];
+  }
+
+  .type-label {
+    @apply font-body text-label font-medium uppercase tracking-[0.1em] text-graphite;
+  }
+
+  .type-org {
+    @apply font-display text-body-lg italic text-graphite;
+  }
+}
+
+::selection {
+  background: color-mix(in srgb, var(--watershed-teal) 25%, transparent);
+}
+
+.contour-path {
+  fill: none;
+  stroke: var(--contour-stroke);
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+}
+
+@keyframes contour-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes contour-pulse {
+  0%,
+  100% {
+    stroke-opacity: 0.15;
+  }
+  50% {
+    stroke-opacity: 0.35;
+  }
+}
+
+.tag-wipe {
+  background: linear-gradient(
+    90deg,
+    color-mix(in srgb, var(--watershed-teal) 18%, transparent) 0%,
+    color-mix(in srgb, var(--watershed-teal) 18%, transparent) 50%,
+    transparent 50%
+  );
+  background-size: 200% 100%;
+  background-position: 100% 0;
+  transition: background-position 0.35s ease;
+}
+
+.tag-wipe:hover {
+  background-position: 0 0;
+}

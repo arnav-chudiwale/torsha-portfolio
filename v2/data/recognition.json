@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Gaylord Atkinson Memorial Scholarship",
+    "org": "Grassland Heritage Foundation",
+    "year": "2026",
+    "featured": true
+  },
+  {
+    "name": "1st Place, OSU 3 Minute Teach Competition",
+    "org": "Oklahoma State University",
+    "year": "2025",
+    "featured": true
+  },
+  {
+    "name": "2nd Place, OSU 3 Minute Thesis Competition",
+    "org": "Oklahoma State University",
+    "year": "2025",
+    "featured": true
+  },
+  {
+    "name": "Milton B. Cochran Graduate Fellowship",
+    "org": "Oklahoma State University",
+    "year": "2025",
+    "featured": true
+  },
+  {
+    "name": "ITLE Scholarship of Teaching and Learning",
+    "org": "Oklahoma State University",
+    "year": "2025",
+    "featured": false
+  },
+  {
+    "name": "Hayden Family Endowed Fellowship",
+    "org": "Oklahoma State University",
+    "year": "2023",
+    "featured": false
+  },
+  {
+    "name": "3rd Place & People's Choice, 3MT Competition",
+    "org": "Oklahoma State University",
+    "year": "2023",
+    "featured": false
+  },
+  {
+    "name": "Hargis Leadership Institute",
+    "org": "Oklahoma State University",
+    "year": "2023",
+    "featured": false
+  },
+  {
+    "name": "UGent Master Grant",
+    "org": "Ghent University, Belgium",
+    "year": "2016–2017",
+    "featured": false
+  },
+  {
+    "name": "Erasmus Mobility Grant",
+    "org": "European Union Higher Education",
+    "year": "2016",
+    "featured": false
+  },
+  {
+    "name": "DST-INSPIRE Research Grant",
+    "org": "Government of India",
+    "year": "2011",
+    "featured": false
+  },
+  {
+    "name": "First Class First, MSc Environmental System Management",
+    "org": "University of Calcutta",
+    "year": "2010",
+    "featured": false
+  }
+]
