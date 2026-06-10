@@ -5,6 +5,7 @@ import { Tag } from "./Tag";
 
 export type FieldCardData = {
   title: string;
+  areaOfStudy?: string;
   institution: string;
   location: string;
   dates: string;
@@ -48,9 +49,16 @@ export function FieldCard({
       </svg>
 
       <div className="grid gap-4 lg:grid-cols-[1fr_auto] lg:gap-8">
-        <h3 className="type-card-title transition-colors group-hover:text-watershed-teal">
-          {project.title}
-        </h3>
+        <div>
+          <h3 className="type-card-title transition-colors group-hover:text-watershed-teal">
+            {project.title}
+          </h3>
+          {project.areaOfStudy && (
+            <p className="type-body-sm mt-2 text-left text-text-secondary">
+              {project.areaOfStudy}
+            </p>
+          )}
+        </div>
         <div className="type-meta lg:text-right">
           <div>{project.dates}</div>
           <div>{project.institution}</div>

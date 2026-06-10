@@ -1,6 +1,19 @@
 "use client";
 
-import education from "@/data/education.json";
+import educationData from "@/data/education.json";
+
+type EducationItem = {
+  degree: string;
+  institution: string;
+  location: string;
+  dates: string;
+  note: string;
+  directoryLabel?: string;
+  directoryUrl?: string;
+  directoryLinkText?: string;
+};
+
+const education = educationData as EducationItem[];
 import { SectionReveal } from "@/components/ui/SectionReveal";
 import { SectionDivider } from "@/components/ui/SectionDivider";
 import { dividerContours } from "@/lib/contours";
@@ -64,6 +77,21 @@ export function Education() {
                   <h3 className="type-card-title">{item.degree}</h3>
                   <p className="type-org mt-1">{item.institution}</p>
                   <p className="type-meta mt-1">{item.location}</p>
+                  {item.directoryUrl && (
+                    <div className="mt-3">
+                      {item.directoryLabel && (
+                        <p className="type-meta">{item.directoryLabel}</p>
+                      )}
+                      <a
+                        href={item.directoryUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="type-meta mt-1 inline-block text-watershed-teal transition-colors hover:text-alluvial-warm"
+                      >
+                        {item.directoryLinkText ?? item.directoryUrl} →
+                      </a>
+                    </div>
+                  )}
                   <p className="type-body-sm mt-4">{item.note}</p>
                 </div>
                 <p className="type-meta-accent md:text-right">{item.dates}</p>
